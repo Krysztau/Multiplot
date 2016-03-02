@@ -1,4 +1,3 @@
-
 #Define the multiplot function#
 multiplot <- function(..., plotlist=NULL, cols) {
   require(grid)
